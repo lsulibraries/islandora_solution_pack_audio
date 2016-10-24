@@ -20,7 +20,7 @@
     <form MIME="audio/vnd.wave"/>
     <form MIME="audio/flac"/>
   </dsTypeModel>
-  <dsTypeModel ID="PDF" optional="true">
+  <dsTypeModel ID="FULL_TEXT" optional="true">
     <form MIME="application/pdf"/>
   </dsTypeModel>
   <dsTypeModel ID="PROXY_MP3" optional="false">
